@@ -1931,6 +1931,48 @@
             }
         },
         {
+            "hash": "722b010fe6faa9f5c961f879d3d1b89ccae4a055ba973b7f812418e4fe396571",
+            "ntxid": "561726ded4867085a31985bdb293abc9bbd170c9594bb4c8cb6090ab2258c60d",
+            "tx_p": {
+                "hash": "722b010fe6faa9f5c961f879d3d1b89ccae4a055ba973b7f812418e4fe396571",
+                "ntxid": "561726ded4867085a31985bdb293abc9bbd170c9594bb4c8cb6090ab2258c60d",
+                "ver": 1,
+                "size": 438,
+                "in": [
+                    {
+                        "prev_out": {
+                            "hash": "b0dcaa9fe81efebeebfc579bb1b0649fdab9da0b97929287b1ece9d5d35abd5d",
+                            "n": 18
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    },
+                    {
+                        "prev_out": {
+                            "hash": "e1dea2f7260a8251606c3342847c29722b05bbe579de85a32744024b1af3858e",
+                            "n": 1
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    }
+                ],
+                "out": [
+                    {
+                        "value_int": 630397567,
+                        "value": 6.30397567,
+                        "scriptPubKey": "OP_DUP OP_HASH160 9bef2b04943abfdd3e359159aad718fab7916485 OP_EQUALVERIFY OP_CHECKSIG",
+                        "addr": "9bef2b04943abfdd3e359159aad718fab7916485"
+                    },
+                    {
+                        "value_int": 3260000,
+                        "value": 0.0326,
+                        "scriptPubKey": "OP_DUP OP_HASH160 44e48093f3f61fb9e0d48c00e8d67d617bdda03b OP_EQUALVERIFY OP_CHECKSIG",
+                        "addr": "44e48093f3f61fb9e0d48c00e8d67d617bdda03b"
+                    }
+                ]
+            }
+        },
+        {
             "hash": "77179e773e81e0608852d6cb6e1c5eb8221fe923ebe613d04cc1e6d2a03fbcda",
             "ntxid": "66f6456edd36ca34404266c80f007e4b91dd990c49edb5f9ea543481774dc628",
             "tx_p": {
