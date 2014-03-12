@@ -51,56 +51,6 @@
             }
         },
         {
-            "hash": "0088c4d1775e117eadf66446b7fe9aa89505b54a450e4b44805ff365d4c6ed60",
-            "ntxid": "46731c19269e98aa5f8f2705ab9f916d4c74222444525ca661c63379df99b2fb",
-            "tx_p": {
-                "hash": "0088c4d1775e117eadf66446b7fe9aa89505b54a450e4b44805ff365d4c6ed60",
-                "ntxid": "46731c19269e98aa5f8f2705ab9f916d4c74222444525ca661c63379df99b2fb",
-                "ver": 1,
-                "size": 617,
-                "in": [
-                    {
-                        "prev_out": {
-                            "hash": "b7b139b595e530b530f996e502fab4f2e34d4de000b173c4bdeb34cd3659062e",
-                            "n": 0
-                        },
-                        "scriptSig": "(redacted)",
-                        "addr": null
-                    },
-                    {
-                        "prev_out": {
-                            "hash": "7db532c54ec9d8cbd8f64405630925fecbc02254ab9b5f832dd653958d578be5",
-                            "n": 0
-                        },
-                        "scriptSig": "(redacted)",
-                        "addr": null
-                    },
-                    {
-                        "prev_out": {
-                            "hash": "949ef914464ce2c9ff2c60b535b36f1d309e35144f4947f10ada6e8f3a253030",
-                            "n": 1
-                        },
-                        "scriptSig": "(redacted)",
-                        "addr": null
-                    }
-                ],
-                "out": [
-                    {
-                        "value_int": 5000000000,
-                        "value": 50,
-                        "scriptPubKey": "OP_DUP OP_HASH160 cb78d4e53dbeb30d9d76039d2516ff664a134ee8 OP_EQUALVERIFY OP_CHECKSIG",
-                        "addr": "cb78d4e53dbeb30d9d76039d2516ff664a134ee8"
-                    },
-                    {
-                        "value_int": 3394266006,
-                        "value": 33.94266006,
-                        "scriptPubKey": "OP_DUP OP_HASH160 2b89455b243c1e5e394034db98727ce6bfc920bd OP_EQUALVERIFY OP_CHECKSIG",
-                        "addr": "2b89455b243c1e5e394034db98727ce6bfc920bd"
-                    }
-                ]
-            }
-        },
-        {
             "hash": "024d4f0ceaf30f5a76bd649b7f36fc685c407b11bb650fb91763dfe1f64f5671",
             "ntxid": "735dc33bf576309cb5b02ef5e144781513ce4eaf471a4b9402b03a9b664f9919",
             "tx_p": {
@@ -1446,34 +1396,6 @@
                         "value": 50.07746386,
                         "scriptPubKey": "OP_DUP OP_HASH160 2028674bc6c85f6ae029f7eb23b0ae1e8786b5db OP_EQUALVERIFY OP_CHECKSIG",
                         "addr": "2028674bc6c85f6ae029f7eb23b0ae1e8786b5db"
-                    }
-                ]
-            }
-        },
-        {
-            "hash": "12deb17b886d3936be12dc8c03a41a92fa9ceef4e9e93a8b1297d3e208d0a2d9",
-            "ntxid": "b2944a7a56a8009c4c04ab6bc29994df50feddf5e5ed5ca9d7ad5d60ecfa6d7f",
-            "tx_p": {
-                "hash": "12deb17b886d3936be12dc8c03a41a92fa9ceef4e9e93a8b1297d3e208d0a2d9",
-                "ntxid": "b2944a7a56a8009c4c04ab6bc29994df50feddf5e5ed5ca9d7ad5d60ecfa6d7f",
-                "ver": 1,
-                "size": 224,
-                "in": [
-                    {
-                        "prev_out": {
-                            "hash": "dd8016ec3c383a228dbc94931082241abe859edc37c29af880f547f28ee3a0e6",
-                            "n": 0
-                        },
-                        "scriptSig": "(redacted)",
-                        "addr": null
-                    }
-                ],
-                "out": [
-                    {
-                        "value_int": 5000000000,
-                        "value": 50,
-                        "scriptPubKey": "OP_DUP OP_HASH160 755a1fca47a56aa3b46bcebe89ddcf474706779d OP_EQUALVERIFY OP_CHECKSIG",
-                        "addr": "755a1fca47a56aa3b46bcebe89ddcf474706779d"
                     }
                 ]
             }
