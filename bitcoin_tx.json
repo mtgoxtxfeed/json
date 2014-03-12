@@ -5737,6 +5737,40 @@
             }
         },
         {
+            "hash": "bfcfa454ea863c9ba1ae8499a40b3f94aaeb375b0cab6b8de5816b48cb93adf1",
+            "ntxid": "a58ce7ff95a8b2359399685079c079744941d33fcaff6f1ac6f3356f1ae54dbf",
+            "tx_p": {
+                "hash": "bfcfa454ea863c9ba1ae8499a40b3f94aaeb375b0cab6b8de5816b48cb93adf1",
+                "ntxid": "a58ce7ff95a8b2359399685079c079744941d33fcaff6f1ac6f3356f1ae54dbf",
+                "ver": 1,
+                "size": 257,
+                "in": [
+                    {
+                        "prev_out": {
+                            "hash": "af501f1ebce29919f900ead7bbcd2976878e2bc8e9c31e3afcfbdf145f7c95e9",
+                            "n": 1
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    }
+                ],
+                "out": [
+                    {
+                        "value_int": 3762669712,
+                        "value": 37.62669712,
+                        "scriptPubKey": "OP_DUP OP_HASH160 0cf24c36bd236647e0a012495241ce1c718d6f24 OP_EQUALVERIFY OP_CHECKSIG",
+                        "addr": "0cf24c36bd236647e0a012495241ce1c718d6f24"
+                    },
+                    {
+                        "value_int": 4912256398,
+                        "value": 49.12256398,
+                        "scriptPubKey": "OP_DUP OP_HASH160 c48fc7d92b4a5e9679149455d3890b542bc61766 OP_EQUALVERIFY OP_CHECKSIG",
+                        "addr": "c48fc7d92b4a5e9679149455d3890b542bc61766"
+                    }
+                ]
+            }
+        },
+        {
             "hash": "c3db812ecaa8ebf08151d9777ba41e4d234f93db590296b07952427bfc09a06d",
             "ntxid": "26c34f3beffb98d9939c41ba36c51c2885bcffd788a489e682d7ea2ea5c351fc",
             "tx_p": {
