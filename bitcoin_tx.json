@@ -85,6 +85,48 @@
             }
         },
         {
+            "hash": "39a6543210ff2a80ce9e643700b92d0f3bd4ff6142429b73d25f50c2f73b6886",
+            "ntxid": "b216d5326dad1c0a7134c499ca8bdb88b000aac1babd2bda49b91c1c4feede7f",
+            "tx_p": {
+                "hash": "39a6543210ff2a80ce9e643700b92d0f3bd4ff6142429b73d25f50c2f73b6886",
+                "ntxid": "b216d5326dad1c0a7134c499ca8bdb88b000aac1babd2bda49b91c1c4feede7f",
+                "ver": 1,
+                "size": 437,
+                "in": [
+                    {
+                        "prev_out": {
+                            "hash": "ba03ccd6a0eeb486ea98363f03a9f1192b4118a193bf757674cf2b86ed5bbbba",
+                            "n": 0
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    },
+                    {
+                        "prev_out": {
+                            "hash": "35afb3b9763fa8ea9abe7a74a61b52ea7a71152f94f381397826319d5652df12",
+                            "n": 0
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    }
+                ],
+                "out": [
+                    {
+                        "value_int": 5000000000,
+                        "value": 50,
+                        "scriptPubKey": "OP_DUP OP_HASH160 00afaaa301300698fb20820b373a065b5c29f66b OP_EQUALVERIFY OP_CHECKSIG",
+                        "addr": "00afaaa301300698fb20820b373a065b5c29f66b"
+                    },
+                    {
+                        "value_int": 8812612,
+                        "value": 0.08812612,
+                        "scriptPubKey": "OP_DUP OP_HASH160 65fb68948343385c9158b0a41e191f8e8c952380 OP_EQUALVERIFY OP_CHECKSIG",
+                        "addr": "65fb68948343385c9158b0a41e191f8e8c952380"
+                    }
+                ]
+            }
+        },
+        {
             "hash": "3d4e2ef72d6be371a59ab78cc057baea08388a1684b9171a1813d94ca09be9e8",
             "ntxid": null,
             "tx_p": {
